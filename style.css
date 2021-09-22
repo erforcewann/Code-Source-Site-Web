@@ -1,0 +1,39 @@
+ h1 {
+   border: 8px blue;
+   border-radius: 20px 20px 20px 20px;
+   box-shadow: 10px 10px 10px aqua;
+   font-size: 40px;
+   font-family: white;
+   color: #ECFF33;   
+   }
+    
+   body {
+	margin:0;
+	padding:0;
+   }
+   
+   #background {
+	   position:fixed;
+	   top:0;
+	   left:0;
+	   z-index: -1;
+   }
+    
+    li {
+    list-style-type : none;
+	color: #ECFF33;
+   }
+    
+    h2 {
+    border: 8px blue;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 10px aqua;
+    font-size: 20px;
+    font-family: white;
+    color: #ECFF33;	
+    }
+	
+	h3 {
+		color: #ECFF33;
+	}
+	
