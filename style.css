@@ -40,7 +40,11 @@
 	}
 
 var {
-color: #ECFF33;
-font-size: x-large;	
+    border: 8px blue;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 10px aqua;
+    font-size: 20px;
+    font-family: white;
+    font-size: x-large;	
 } 
 	
