@@ -126,7 +126,7 @@ function clicOuvrirAide() {
 	if (melangeEnCours) {
 		return;
 	}
-	dom_aide.innerHTML = '<button type="button" onclick="clicFermerAide()">Cacher le mode d\'emploi</button> <fieldset onclick="clicFermerAide()"><legend>Mode d\'emploi</legend><br />Mélangez d\'abord les pièces du Taquin.<br /><br />Quand le mélange vous semble suffisant, arrêtez !<br /><br />Cliquez sur les pièces pour replacer les numéros dans le bon ordre...<br /></fieldset>';
+	dom_aide.innerHTML = '<button type="button" onclick="clicFermerAide()">Cacher le mode d\'emploi</button> <fieldset onclick="clicFermerAide()"><legend>Mode d\'emploi</legend><br />Mélangez d\'abord les pièces du Taquin.<br /><br />Quand le mélange vous semble suffisant, arrêtez !<br /><br />Cliquez sur les pièces pour replacer les numéros dans le bon ordre...<br /><br />Les numéros se placent dans cet ordre : gauche-droite, haut-bas<br /></fieldset>';
 }
 
 //================== clicFermerAide ==================
