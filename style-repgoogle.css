@@ -9,6 +9,6 @@
 
 button {
        color: teal;
-	border: 0;
+	border-radius: 20px;
 	background-color: teal;
 }
