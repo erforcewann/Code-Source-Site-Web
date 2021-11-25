@@ -87,3 +87,9 @@ body {
   background-color: black;
 }
 
+button {
+  color: aqua;
+	border-radius: 20px;
+	background-color: teal;
+}
+
