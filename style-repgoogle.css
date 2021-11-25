@@ -9,4 +9,6 @@
 
 button {
        color: teal;
+	border: 0;
+	background: teal;
 }
